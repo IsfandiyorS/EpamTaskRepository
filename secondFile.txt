@@ -6,5 +6,3 @@ fourth line
 fifth line
 sixth line
 seventh line
-step 5
-git_1 branch this file
