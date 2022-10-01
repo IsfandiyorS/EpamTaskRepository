@@ -1,6 +1,6 @@
 git_1 add file1
-first line
-second line
+step 7
+modifying the firstFile
 third line
 fourth line
 fifth line
