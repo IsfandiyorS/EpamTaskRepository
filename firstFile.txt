@@ -1,7 +1,8 @@
 git_1 add file1
 step 7
 modifying the firstFile
-third line
+modifying on step 8
+task from step 8
 fourth line
 fifth line
 sixth line
